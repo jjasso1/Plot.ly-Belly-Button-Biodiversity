@@ -62,11 +62,11 @@ For eg. the label of the OTU ID 1 is `Archaea;Euryarchaeota;Halobacteria;Halobac
 
 ###Visualization Inspiration
 
-![](images/hw01.png)
+![](hw01.png)
 
 
-![](images/hw02.png)
+![](hw02.png)
 
-![](images/hw03.png)
+![](hw03.png)
 
-![](images/hw04.png)
+![](hw04.png)
